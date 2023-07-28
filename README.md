@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel!</h1>
-<h3 align="center">An aspiring backend developer from Atlanta, GA</h3>
-
-- 🔭 I’m currently working on **building relevant skills**
+<h3 align="center">An aspiring Software Developer from Atlanta, GA</h3>
 
 - 🌱 I’m currently learning **Data Structures, C/C++, and more**
 
