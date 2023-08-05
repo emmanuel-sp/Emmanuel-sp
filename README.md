@@ -1,3 +1,10 @@
+```java
+public class Emmanuel {
+  private int age = 19;
+  public String[] traits = new String[] { "moderately funny", "short", "male" };
+  public String[] hobbies = new String[] { "Coding!", "Working out", "Watching Anime", "Listening to music", "Walking" };
+}
+```
 <h1 align="center">Hi 👋, I'm Emmanuel!</h1>
 <h3 align="center">An aspiring Software Developer from Atlanta, GA</h3>
 
