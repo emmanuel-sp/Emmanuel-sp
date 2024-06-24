@@ -1,6 +1,6 @@
 ```java
 public class Emmanuel {
-  private int age = 19;
+  private int age = 20;
   public String[] traits = new String[] { "moderately funny", "short", "male" };
   public String[] hobbies = new String[] { "Coding!", "Working out", "Watching Anime", "Listening to music", "Walking" };
 }
