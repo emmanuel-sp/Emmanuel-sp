@@ -8,7 +8,7 @@ public class Emmanuel {
 <h1 align="center">Hi 👋, I'm Emmanuel!</h1>
 <h3 align="center">An aspiring Software Developer from Atlanta, GA</h3>
 
-- 🌱 I’m currently learning **Data Structures, C/C++, and more**
+- 🌱 I’m currently learning **Data Mining, C/C++, AWS, ReactJS, and more**
 
 - 📫 How to reach me **Emmanuel.sean.pierre@gmail.com**
 
