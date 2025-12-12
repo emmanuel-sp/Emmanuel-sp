@@ -1,8 +1,8 @@
 ```java
 public class Emmanuel {
-  private int age = 20;
-  public String[] traits = new String[] { "moderately funny", "short", "male" };
-  public String[] hobbies = new String[] { "Coding!", "Working out", "Watching Anime", "Listening to music", "Walking" };
+  private int age = 21;
+  public String[] traits = new String[] { "awesome", "awesome", "male" };
+  public String[] hobbies = new String[] { "Coding!", "Working out", "Watching Anime", "Listening to music" };
 }
 ```
 <h1 align="center">Hi 👋, I'm Emmanuel!</h1>
