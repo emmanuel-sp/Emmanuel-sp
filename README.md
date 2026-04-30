@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer • Distributed Systems • Backend • Full-Stack • Applied AI</h3>
 
 <p align="center">
-  I build software with real architectural depth — from socket-level distributed systems in C++ to full-stack AI products with modern backend and web stacks.
+  I build software.
 </p>
 
 <p align="center">
@@ -15,21 +15,20 @@
 
 ## About Me
 
-I'm a software engineer focused on building systems that are technically rigorous and actually useful.
+I'm a software engineer.
 
 My work spans:
 
-- **Distributed systems** with TCP sockets, ring-based routing, coordination protocols, reconnect handling, and TTL-based messaging
-- **Backend and full-stack engineering** with Spring Boot, Next.js, PostgreSQL, Redis, and gRPC
+- **Distributed systems**: TCP sockets, ring-based routing, coordination protocols, reconnect handling, and TTL-based messaging
+- **Backend and full-stack engineering**: Spring Boot, Next.js, PostgreSQL, Redis, and gRPC
 - **Applied AI/ML** including LLM-powered workflows, predictive modeling, and intelligent product features
-- **Product-focused engineering** where architecture, usability, and execution all matter
 
 I’m especially interested in:
 
 - Backend engineering
 - Distributed systems and systems programming
-- AI-powered products
-- Building reliable software that solves real problems
+- AI
+- Building reliable software
 
 ---
 
@@ -157,8 +156,7 @@ Applied machine learning techniques to predict potentially hazardous asteroids u
 
 - Distributed systems and networking projects
 - Backend and full-stack applications
-- AI/ML projects with real product or research value
-- Software built with an emphasis on architecture, reliability, and practical use
+- AI/ML projects
 
 ---
 
